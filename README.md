@@ -16,7 +16,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45">
   </a>
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img src="image.png" alt="Website" width="45" height="45">
+    <img src="website_logo.png" alt="Website" width="45" height="45">
   </a>
 </p>
 
