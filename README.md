@@ -40,7 +40,7 @@ I see artificial intelligence not just as a tool to tackle humanity’s greatest
   <a href="https://linkedin.com/in/angel-sanz-gutierrez" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45">
   </a>
-  <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="https://angelsanz.dev/en#home" target="_blank" rel="noopener noreferrer">
     <img src="website_logo.png" alt="Website" width="45" height="45">
   </a>
 </p>
